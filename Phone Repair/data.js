@@ -82,19 +82,19 @@ const catagoryTypes = [
     },
     {
         id: 2,
-        name: "Samsung Android",
+        name: "Samsung and Android Repair",
         image: "https://static.wixstatic.com/media/99b596_5cb4c79e756c447caffd720561df6fbf~mv2.png/v1/fill/w_200,h_183,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/1144404-middle.png",
         bg: "#f5b6b0",
     },
     {
         id: 3,
-        name: "Google",
+        name: "Tablet Repair",
         image: "https://static.wixstatic.com/media/99b596_3a11c99684034409af6b0703ac99a5e0~mv2.png/v1/fill/w_196,h_192,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/tab.png",
         bg: "#d9c1b4",
     },
     {
         id: 4,
-        name: "OnePlus",
+        name: "Computer Repair",
         image: "https://static.wixstatic.com/media/99b596_95ab285494c74157ba977be5ef29f09e~mv2.png/v1/fill/w_226,h_151,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/laptop.png",
         bg: "#dbd1b6",
     },
